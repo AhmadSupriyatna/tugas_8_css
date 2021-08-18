@@ -1,0 +1,25 @@
+body{
+    background-image: url(slider.jpg);
+    background-size: cover;
+}
+div{
+    overflow: scroll;
+    width: 40%;
+    height: 500px;
+    background-color: white;
+    background-image: url(avocado.jpg);
+    background-repeat: repeat-y;
+    font-size: 25px;
+    font-weight: bold;
+}
+.satu{
+    color: blue;
+}
+
+.dua{
+    color: green;
+}
+
+.tiga{
+    color: red;
+}
